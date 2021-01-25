@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **michealw/michealw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+There's not much here except stuff I write to use myself, but feel free to take a look around!
